@@ -11,6 +11,7 @@ Projeto contruído dos desafios Discover da Rocketseat
 -HTML
 -CSS
 -Git e Github
+-Javascript
 
 ## Contato
 
